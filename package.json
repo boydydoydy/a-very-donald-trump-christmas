@@ -1,0 +1,27 @@
+{
+  "name": "a-very-donald-trump-christmas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "HAINES-DESKTOP\\richa",
+  "license": "MIT",
+  "scripts": {
+    "dev": "gatsby develop",
+    "build": "gatsby build",
+    "clean": "gatsby clean",
+    "z": "gatsby clean && gatsby develop",
+    "pretty": "prettier --write \"src/**/*js\""
+  },
+  "dependencies": {
+    "cloudinary-build-url": "^0.1.1",
+    "cloudinary-react": "^1.6.8",
+    "gatsby": "^2.29.1",
+    "gatsby-plugin-google-fonts": "^1.0.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-particles-js": "^3.4.1",
+    "use-cloudinary": "3.1.7"
+  },
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
+}
