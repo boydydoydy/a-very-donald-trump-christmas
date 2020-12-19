@@ -24,7 +24,7 @@ export default () => {
         </section>
       </main>
       <footer className="footer">
-        <p>Goldsmiths University, Sonic Arts MMus Project by Joseph Bell</p>
+        
       </footer>
     </div>
   );
