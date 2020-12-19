@@ -11,7 +11,7 @@ export default () => {
     <div>
       <TrumpBackground />
       <main className="container">
-        <h1 className="title">A Very Donald Trump Christmas</h1>
+        <h1 className="title">A Christmas Message From The President</h1>
         <section className="video-section">
           <Video
             cloudName="richardhaines"
@@ -24,7 +24,7 @@ export default () => {
         </section>
       </main>
       <footer className="footer">
-        
+        <p>Goldsmiths University, Sonic Arts MMus Project by Joseph Bell</p>
       </footer>
     </div>
   );
